@@ -7,6 +7,7 @@
 Currently available for:
 
 * Xcode
+* tmtheme (Textmate, Sublime Text etc.)
 * iTerm2
 * macOS Terminal
 * macOS System Palette (Affinity Photo/Designer, etc.)
